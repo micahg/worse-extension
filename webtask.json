@@ -1,15 +1,15 @@
   {
-    "title": "Bad Extension",
-    "name": "bad-extension",
+    "title": "Worse Extension",
+    "name": "worse-extension",
     "version": "1.0.0",
     "author": "auth0",
-    "description": "This is a bad extension - it always fails",
+    "description": "This is a worse extension - it always fails with an exception",
     "type": "application",
-    "repository": "https://github.com/micahg/bad-extension",
+    "repository": "https://github.com/micahg/worse-extension",
     "keywords": [
       "auth0",
       "extension",
-      "bad"
+      "worse"
     ],
     "codeUrl": "https://raw.githubusercontent.com/micahg/bad-extension/main/index.js"
   }
